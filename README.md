@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td></td>
-    <td>1.3: 机器学习算法的几大分类</td>
+    <td><a href="https://github.com/Exrick/Machine-Learning/blob/master/1.%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/1.3%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9A%84%E5%87%A0%E5%A4%A7%E5%88%86%E7%B1%BB/1.3%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9A%84%E5%87%A0%E5%A4%A7%E5%88%86%E7%B1%BB.md">1.3: 机器学习算法的几大分类</a></td>
     <td></td>
     <td><a href="https://github.com/Exrick">Exrick</a></td>
   </tr>
