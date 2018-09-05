@@ -42,17 +42,17 @@
     <td>第 2 章: 机器学习相关工具安装与使用</td>
     <td><a href="">2.1: Python3的安装</a></td>
     <td></td>
-    <td></td>
+    <td><a href="https://github.com/Exrick">Exrick</a></td>
   </tr>
   <tr>
     <td></td>
-    <td><a href="">2.2: IDE：Jupter Notebook或PyCharm或ANACONDA安装</a></td>
+    <td><a href="">2.2: 相关IDE的安装与使用</a></td>
     <td></td>
-    <td></td>
+    <td><a href="https://github.com/Exrick">Exrick</a></td>
   </tr>
   <tr>
     <td></td>
-    <td><a href=""></a></td>
+    <td><a href="">2.3: Numpy的安装与使用</a></td>
     <td></td>
     <td></td>
   </tr>
