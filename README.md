@@ -40,13 +40,13 @@
   </tr>
   <tr>
     <td>第 2 章: 机器学习相关工具安装与使用</td>
-    <td><a href="">2.1: Python3的安装</a></td>
+    <td><a href="https://github.com/Exrick/Machine-Learning/blob/master/2.%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9B%B8%E5%85%B3%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/2.1%20Python3%E7%9A%84%E5%AE%89%E8%A3%85/2.1%20Python3%E7%9A%84%E5%AE%89%E8%A3%85.md">2.1: Python3的安装</a></td>
     <td></td>
     <td><a href="https://github.com/Exrick">Exrick</a></td>
   </tr>
   <tr>
     <td></td>
-    <td><a href="">2.2: 相关IDE的安装与使用</a></td>
+    <td><a href="https://github.com/Exrick/Machine-Learning/blob/master/2.%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9B%B8%E5%85%B3%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/2.2%20%E7%9B%B8%E5%85%B3IDE%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/2.2%20%E7%9B%B8%E5%85%B3IDE%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8.md">2.2: 相关IDE的安装与使用</a></td>
     <td></td>
     <td><a href="https://github.com/Exrick">Exrick</a></td>
   </tr>
