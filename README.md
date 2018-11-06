@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td></td>
-    <td><a href="https://github.com/Exrick/Machine-Learning/blob/master/2.%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9B%B8%E5%85%B3%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/2.3%20Numpy%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/2.3%20Numpy%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%EF%BC%88%E4%B8%80%EF%BC%89.md">2.3: Numpy的基本使用（一）</a></td>
+    <td><a href="https://github.com/Exrick/Machine-Learning/blob/master/2.%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9B%B8%E5%85%B3%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/2.3%20Numpy%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%EF%BC%88%E4%B8%80%EF%BC%89/2.3%20Numpy%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%EF%BC%88%E4%B8%80%EF%BC%89.md">2.3: Numpy的基本使用（一）</a></td>
     <td></td>
     <td><a href="https://github.com/Exrick">Exrick</a></td>
   </tr>
