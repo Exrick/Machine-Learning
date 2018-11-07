@@ -98,4 +98,4 @@
 - [AiLearning](https://github.com/apachecn/AiLearning)
 - 引用相关大佬前辈
   - [吴恩达 Andrew Ng](https://baike.baidu.com/item/%E5%90%B4%E6%81%A9%E8%BE%BE/9465313)
-  - [李飞飞]https://baike.baidu.com/item/李飞飞/7448630
+  - [李飞飞](https://baike.baidu.com/item/李飞飞/7448630)
