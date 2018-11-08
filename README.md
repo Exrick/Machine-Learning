@@ -82,7 +82,7 @@
   </tr>
   <tr>
     <td>第 3 章: 最简单的分类算法：k近邻算法</td>
-    <td>3.1: KNN算法原理与简单实现</td>
+    <td><a href="https://github.com/Exrick/Machine-Learning/blob/master/3.KNN/3.1%20KNN%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86%E4%B8%8E%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0/3.1%20KNN%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86%E4%B8%8E%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0.md">3.1: KNN算法原理与简单实现</a></td>
     <td></td>
     <td><a href="https://github.com/Exrick">Exrick</a></td>
   </tr>
