@@ -82,13 +82,13 @@
   </tr>
   <tr>
     <td>第 3 章: 最简单的分类算法：k近邻算法</td>
-    <td>3.1: kNN算法原理</td>
+    <td>3.1: KNN算法原理与简单实现</td>
     <td></td>
     <td><a href="https://github.com/Exrick">Exrick</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>3.2: kNN算法实现</td>
+    <td>3.2: Scikit-learn中KNN算法的封装</td>
     <td></td>
     <td><a href="https://github.com/Exrick">Exrick</a></td>
   </tr>
