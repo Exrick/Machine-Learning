@@ -1,7 +1,7 @@
 # Machine-Learning
-> 个人机器学习(Machine Learning, ML)笔记 包含个人理解与总结 不能保证完全专业正确性 如有错误欢迎提出 期待您的补充贡献！
+> 个人机器学习(Machine Learning, ML)笔记 参考多个学习资源 包含个人理解与总结 不能保证完全专业正确性 如有错误欢迎提出 期待您的补充贡献！
 
-<img src="https://i.loli.net/2018/07/25/5b589d4121cea.png" width="60%">
+<img src="https://i.loli.net/2018/07/25/5b589d4121cea.png" width="70%">
 
 - 机器学习：让机器去学习
 
@@ -64,13 +64,19 @@
   </tr>
   <tr>
     <td></td>
-    <td><a href="https://github.com/Exrick/Machine-Learning/blob/master/2.%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9B%B8%E5%85%B3%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/2.5%20Matplotlib%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/2.5%20Matplotlib%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8.md">2.5: Matplotlib的基本使用</a></td>
+    <td><a href="">2.5: Numpy的基本使用（三）</a></td>
     <td></td>
     <td><a href="https://github.com/Exrick">Exrick</a></td>
   </tr>
   <tr>
     <td></td>
-    <td><a href="https://github.com/Exrick/Machine-Learning/blob/master/2.%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9B%B8%E5%85%B3%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/2.6%20Scikit-learn%E7%9A%84%E7%AE%80%E5%8D%95%E6%8E%A2%E7%B4%A2/2.6%20Scikit-learn%E7%9A%84%E7%AE%80%E5%8D%95%E6%8E%A2%E7%B4%A2.md">2.6: Scikit-learn的简单探索</a></td>
+    <td><a href="">2.6: Matplotlib的基本使用</a></td>
+    <td></td>
+    <td><a href="https://github.com/Exrick">Exrick</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="">2.7: Scikit-learn的简单探索</a></td>
     <td></td>
     <td><a href="https://github.com/Exrick">Exrick</a></td>
   </tr>
