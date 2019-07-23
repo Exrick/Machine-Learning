@@ -88,7 +88,7 @@
   </tr>
   <tr>
     <td></td>
-    <td>3.2: Scikit-learn中KNN算法的封装</td>
+    <td><a href="https://github.com/Exrick/Machine-Learning/blob/master/3.KNN/3.2%20Scikit-learn%E4%B8%ADKNN%E7%AE%97%E6%B3%95%E7%9A%84%E5%B0%81%E8%A3%85/3.2%20Scikit-learn%E4%B8%ADKNN%E7%AE%97%E6%B3%95%E7%9A%84%E5%B0%81%E8%A3%85.md">3.2: Scikit-learn中KNN算法的封装</a></td>
     <td></td>
     <td><a href="https://github.com/Exrick">Exrick</a></td>
   </tr>
