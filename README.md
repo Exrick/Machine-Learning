@@ -92,6 +92,12 @@
     <td></td>
     <td><a href="https://github.com/Exrick">Exrick</a></td>
   </tr>
+  <tr>
+    <td></td>
+    <td><a href="">3.3: 如何判断算法的好坏与性能</a></td>
+    <td></td>
+    <td><a href="https://github.com/Exrick">Exrick</a></td>
+  </tr>
 </table>
 
 ### 推荐学习资源
